@@ -51,8 +51,6 @@
 
 > 数据存储在浏览器 IndexedDB，建议定期导出备份。
 
-### 打包为 Android APK
-推荐用 [WebIntoApp](https://www.webintoapp.com/) 或 [Median](https://median.co/) 将单文件打包为 WebView APK。
 
 ---
 

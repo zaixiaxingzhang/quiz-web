@@ -45,7 +45,7 @@
 ## 🚀 使用方式
 
 ### 浏览器直接打开
-1. 下载 [`quiz-app.html`](./index.html)或使用https://zaixiaxingzhang.github.io/quiz-web/
+1. 下载 [`quiz-app.html`](./index.html)或使用https://zaixiaxingzhang.github.io/Quiz-Web/
 2. 用手机或电脑浏览器打开
 3. 导入题库或手动新建题目
 

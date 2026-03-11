@@ -1,6 +1,8 @@
 # 刷题宝
 
-一款单文件 HTML 刷题工具，无需安装，支持浏览器直接使用，也可使用 Android App或直接访问在线网站https://zaixiaxingzhang.github.io/Quiz-Web/或https://shuatiweb.netlify.app/
+一款单文件 HTML 刷题工具，无需安装，支持浏览器直接使用，也可使用 Android App或直接访问在线网站
+https://zaixiaxingzhang.github.io/Quiz-Web/
+https://shuatiweb.netlify.app/
 
 ---
 
